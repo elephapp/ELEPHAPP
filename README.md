@@ -1,13 +1,13 @@
 <p align="center">
 <br />
-<a href="https://elephapp.xyz/"><img src="https://ipfs.io/ipfs/bafybeidv7vvoymnnljkbm4zgvu5zdyjgtilcp2g65r4gpov3lf7rjy2aru" width="700" alt="ELEPHAPP"/></a>
+<a href="http://elephapp.xyz/"><img src="https://ipfs.io/ipfs/bafybeidv7vvoymnnljkbm4zgvu5zdyjgtilcp2g65r4gpov3lf7rjy2aru" width="700" alt="ELEPHAPP"/></a>
 <br />
 </p>
 <h1 align="center">Links</h1>
 <p align="center">
-<a href="https://elephapp.xyz/"><img src="https://cdn-icons-png.flaticon.com/512/3037/3037366.png" width="40" height="40" alt="Website"/></a>
+<a href="http://elephapp.xyz/"><img src="https://cdn-icons-png.flaticon.com/512/3037/3037366.png" width="40" height="40" alt="Website"/></a>
 <a href="https://x.com/elephapp"><img alt="Twitter" src="https://www.svgrepo.com/show/47722/twitter-black-shape.svg" width="40" height="40"/></a>
-<a href="https://discord.gg/elephapp"><img alt="Join our Discord!" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" width="40" height="40"/></a>
+<a href="https://discord.gg/RrXmCDgbhY"><img alt="Join our Discord!" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" width="40" height="40"/></a>
 </p>
 <br />
 
